@@ -1,0 +1,126 @@
+body{
+    background-color: bisque;
+}
+h1{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: 900;
+    font-size: 80px;
+    line-height: 73px;
+    text-align: center;
+    color: #031453;
+   margin: 100px 600px 500px 250px;
+}
+
+h2{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: 900;
+    font-size: 50px;
+    line-height: 60px;
+    text-align: center;
+    color: #312633;
+   margin: 90px 100px 600px 100px;
+}
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 40px;
+    text-align: left;
+    color: #312633;
+    margin: 90px 500px 90px 200px;}
+
+    h5 {
+        font-family: Arial, Helvetica, sans-serif;
+        font-style: italic;
+        font-weight: 900;
+        font-size: 20px;
+        line-height: 20px;
+        text-align: center;
+        color: #312633;
+        margin: 5px 600px 0px 20px; }
+    
+
+
+h6{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 20px;
+    text-align: center;
+    color: #312633; 
+}
+
+
+
+div5 {
+    display: inline-block;
+    width: 250px;
+    height: 250px;
+    border: 5px solid #031453;
+    padding: 2px;
+    margin: 100px 100px 100px 230px;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+div6{
+    display: inline-block;
+    width: 250px;
+    height: 250px;
+    border: 5px solid #031453;
+    padding: 2px;
+    margin: 100px 100px 100px 230px;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div7 {
+    display: inline-block;
+    width: 250px;
+    height: 250px;
+    border: 5px solid #031453;
+    padding: 2px;
+    margin: 100px 100px 100px 230px;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+div8 {
+    display: inline-block;
+    width: 250px;
+    height: 250px;
+    border: 5px solid #031453;
+    padding: 2px;
+    margin: 100px 100px 100px 230px;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;}
+
+ div9 {
+    display: inline-block;
+    width: 250px;
+    height: 180px;
+    margin-left:  900px;
+ }  
+ div10{
+    display: inline-block;
+    width: 250px;
+    height: 150px;
+    margin-left: 900px;
+ } 
+ div11{
+    display: inline-block;
+    width: 1348px;
+    height: 150px;
+
+ }  
+ 
+
+
+
+
